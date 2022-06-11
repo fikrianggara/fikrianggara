@@ -27,7 +27,7 @@ I'm Fikri, I loves to learn new stuff. Especially in web development, software a
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fikrianggara)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrianggara)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrianggara)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrianggara&show_icons=true&count_private=true)  
 
