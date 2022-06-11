@@ -6,7 +6,7 @@ I'm Fikri, I loves to learn new stuff. Especially in web development, software a
 
 - 🌱 I’m currently learning **MERN stack, Service Oriented Architecture, Event-driven Architecture**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fikrianggara?tab=repositories](https://github.com/fikrianggara?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repo](https://github.com/fikrianggara?tab=repositories)
 
 - 💬 Ask me about **machine learning, data mining, React, Express.js**
 
@@ -29,9 +29,7 @@ I'm Fikri, I loves to learn new stuff. Especially in web development, software a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrianggara)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrianggara&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fikrianggara)  
+![fikrianggara's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrianggara&show_icons=true&theme=radical)
 
 ![Profile views](https://gpvc.arturio.dev/fikrianggara)  
 <h3 align="left">Languages and Tools:</h3>
