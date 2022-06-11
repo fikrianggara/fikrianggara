@@ -23,7 +23,7 @@ I'm Fikri, I loves to learn new stuff. Especially in web development, software a
 <a href="https://www.youtube.com/c/fikri septrian anggara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fikri septrian anggara" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@fikriseptrianan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@fikriseptrianan1" height="30" width="40" /></a>
 </p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fikrianggara)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/fikrianggara)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fikrianggara)](https://github.com/ryo-ma/github-profile-trophy)
 
