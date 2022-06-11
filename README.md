@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fikri</h1>
 <h3 align="center">A passionate long life learner from Indonesia.</h3>
 
-- 🔭 I’m currently working on **SIKA (a SOA Web based Information System)**
+- 🔭 I’m currently working on **SIKA (Service-Oriented Progressive Web Based Information System)**
 
 - 🌱 I’m currently learning **MERN stack, Service Oriented Architecture, Event-driven Architecture**
 
