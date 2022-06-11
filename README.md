@@ -1,4 +1,3 @@
-I'm Fikri, I loves to learn new stuff. Especially in web development, software architecture and machine learning.
 <h1 align="center">Hi 👋, I'm Fikri</h1>
 <h3 align="center">A passionate long life learner from Indonesia.</h3>
 
