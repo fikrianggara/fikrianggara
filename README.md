@@ -24,7 +24,7 @@
  <a href="https://github.com/fikrianggara" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' width='30'></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrianggara&hide=html,ruby&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrianggara&hide=html,ruby&theme=dracula)
 
 ![fikrianggara's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrianggara&show_icons=true&theme=dracula)
 
