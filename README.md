@@ -6,7 +6,7 @@ I'm Fikri, I loves to learn new stuff. Especially in web development, software a
 
 - 🌱 I’m currently learning **MERN stack, Service Oriented Architecture, Event-driven Architecture**
 
-- 👨‍💻 All of my projects are available at [my repo](https://github.com/fikrianggara?tab=repositories)
+- 👨‍💻 All of my projects are available at [**my repo**](https://github.com/fikrianggara?tab=repositories)
 
 - 💬 Ask me about **machine learning, data mining, React, Express.js**
 
