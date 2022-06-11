@@ -19,8 +19,7 @@
 <a href="https://kaggle.com/fikri septrian anggara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fikri septrian anggara" height="30" width="40" /></a>
 <a href="https://instagram.com/fikri_septrian_anggara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fikri_septrian_anggara" height="30" width="40" /></a>
 <a href="https://medium.com/@fikriseptriananggara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fikriseptriananggara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fikri septrian anggara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fikri septrian anggara" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@fikriseptrianan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@fikriseptrianan1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/fikriseptrianan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@fikriseptrianan1" height="30" width="40" /></a>
  <a href="https://github.com/fikrianggara" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' width='30'></a>
 </p>
 
