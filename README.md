@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SIKA (Service-Oriented Progressive Web Based Information System)**
 
-- 🌱 I’m currently learning **MERN stack, Service Oriented Architecture, Event-driven Architecture, and Graph database**
+- 🌱 I’m currently learning **MERN stack, Service Oriented Architecture, Event-driven Architecture, and Knowledge graph**
 
 - 👨‍💻 All of my projects are available at [**my repo**](https://github.com/fikrianggara?tab=repositories)
 
