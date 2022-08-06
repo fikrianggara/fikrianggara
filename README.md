@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **machine learning, data mining, React, Express.js**
 
-- 📫 How to reach me **fikriseptriananggara@gmail.com**
+- 📫 Send me a message to **fikriseptriananggara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
