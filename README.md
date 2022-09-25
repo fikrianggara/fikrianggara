@@ -27,7 +27,7 @@
 
 ![fikrianggara's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrianggara&show_icons=true&theme=dracula)
 
-//![Profile views](https://gpvc.arturio.dev/fikrianggara)  
+<!-- ![Profile views](https://gpvc.arturio.dev/fikrianggara) -->  
 <h3 align="left">Languages and Tools:</h3>
 <!-- - <h2 align="left">Language:</h2>
 - <h2 align="left">Main Stack:</h2>
