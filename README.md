@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fikri</h1>
 <h3 align="center">A passionate long life learner from Indonesia.</h3>
 
-- 🔭 I’m currently working on **SIKA (Service-Oriented Progressive Web Based Information System)**
+- 🔭 I’m currently working on my hackathon project
 
-- 🌱 I’m currently learning **MERN stack, Service Oriented Architecture, Event-driven Architecture, and Knowledge graph**
+- 🌱 I’m currently learning **MERN stack, React-native, Service Oriented Architecture, Event-driven Architecture, and Knowledge graph**
 
 - 👨‍💻 All of my projects are available at [**my repo**](https://github.com/fikrianggara?tab=repositories)
 
-- 💬 Ask me about **machine learning, data mining, React, Express.js**
+- 💬 Ask me about **machine learning, Service-oriented architecture, React and Express.js**
 
 - 📫 Send me a message to **fikriseptriananggara@gmail.com**
 
