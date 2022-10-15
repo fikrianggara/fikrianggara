@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on my hackathon project
 
-- 🌱 I’m currently learning **MERN stack, React-native, Service Oriented Architecture, Event-driven Architecture, and Knowledge graph**
+- 🌱 currently learning **MERN stack and React-native**
 
-- 👨‍💻 All of my projects are available at [**my repo**](https://github.com/fikrianggara?tab=repositories)
-
-- 💬 Ask me about **machine learning, Service-oriented architecture, React and Express.js**
+- 💬 we could discuss about **machine learning, Service-oriented architecture, React and Express.js**
 
 - 📫 Send me a message to **fikriseptriananggara@gmail.com**
 
