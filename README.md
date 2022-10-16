@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fikri</h1>
 <h3 align="center">A passionate long life learner from Indonesia.</h3>
 
-- 🔭 I’m currently working on my hackathon project
+- 🔭 I’m currently working on my hackathon project about medical service
 
 - 🌱 currently learning **MERN stack and React-native**
 
