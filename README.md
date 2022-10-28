@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Fikri</h1>
 <h3 align="center">A passionate long life learner from Indonesia.</h3>
 
-- 🔭 I’m currently working on JuaraAndroid, an Indonesia's google developer event.
+- 🔭 Currently working on JuaraAndroid, an Indonesia's google developer event. focusing on mobile dev.
 
-- I have interest in web and mobile dev, machine learning and AI, distributed system design and knowledge graph.
+- 💬 I have interest in web and mobile dev, machine learning and AI, distributed system design and knowledge graph, also data science and data engineering stuff.
 
 - 🌱 currently learning **MERN stack and Kotlin, and react native**
 
