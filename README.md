@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Fikri</h1>
 <h3 align="center">A passionate long life learner from Indonesia.</h3>
 
-- 🔭 I’m currently working on my life..
+- 🔭 I’m currently working on juaraAndroid event..
 
-- 🌱 currently learning **MERN stack and React-native**
+- 🌱 currently learning **MERN stack and Kotlin, and react native**
 
 - 💬 we could discuss about **machine learning, Service-oriented architecture, React and Express.js**
 
