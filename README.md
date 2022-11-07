@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Fikri</h1>
 <h3 align="center">A passionate long life learner from Indonesia.</h3>
 
-- 🔭 Currently working on my internship project and learning jetpack compose.
+- Currently working on my internship project and learning jetpack compose.
 
-- 💬 I have interest in web and mobile dev, machine learning and AI, distributed system design and knowledge graph, also data science and data engineering stuff.
+- Have interest in web and mobile dev, machine learning and AI, distributed system design and knowledge graph, also data science and data engineering stuff.
 
-- 🌱 currently learning **MERN stack and Kotlin, and react native**
+- Currently learning **MERN stack and Kotlin, and react native**
 
-- 💬 we could discuss about **machine learning, Service-oriented architecture, React and Express.js**
-
-- 📫 Send me a message to **fikriseptriananggara@gmail.com**
+- We could discuss about **machine learning, Service-oriented architecture, React and Express.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
