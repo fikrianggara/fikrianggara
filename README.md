@@ -3,7 +3,7 @@
 
 - Currently working on my internship project.
 
-- Have interest in web and mobile dev, machine learning and AI, distributed system design and knowledge graph, also data science and data engineering stuff.
+- Have interest in web and mobile dev, machine learning and AI, distributed system design, data science and data engineering stuff.
 
 - Currently learning **MERN stack and Kotlin, Next.js, and react native**
 
