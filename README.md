@@ -5,7 +5,7 @@
 
 - Have interest in web and mobile dev, machine learning and AI, distributed system, data science and data engineering stuff.
 
-- Currently learning **MERN stack and Kotlin, Next.js, and react native**
+- Currently learning **Next.js**
 
 - We could discuss about **machine learning, Service-oriented architecture, React and Express.js**
 
