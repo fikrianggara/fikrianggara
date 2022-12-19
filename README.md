@@ -3,7 +3,7 @@
 
 - Currently working on my internship project.
 
-- Have interest in web and mobile dev, machine learning and AI, distributed system, data science and data engineering stuff.
+- Have interest in web, mobile dev, machine learning, AI, distributed system, data science and data engineering stuff.
 
 - Currently learning **Next.js**
 
