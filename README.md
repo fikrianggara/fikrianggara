@@ -7,7 +7,7 @@
 
 - Currently learning **Next.js, and natural language interface for database (NLIDB), graphql, graph database, semantic web tech**
 
-- We could discuss about **machine learning, Service-oriented architecture, React and Express.js**
+- We could discuss about **machine learning, Service-oriented architecture, and MERN stack web dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
