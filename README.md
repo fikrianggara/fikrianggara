@@ -5,7 +5,7 @@
 
 - Have interest in web, mobile dev, machine learning, AI, distributed system, data science and data engineering stuff.
 
-- Currently learning **Next.js, and natural language interface for database (NLIDB), graphql, graph database, semantic web tech**
+- Currently learning **Next.js, cloud services, and natural language interface for database (NLIDB), graphql, graph database, semantic web tech**
 
 - We could discuss about **machine learning, Service-oriented architecture, and MERN stack web dev**
 
