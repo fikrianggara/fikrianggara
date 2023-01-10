@@ -3,7 +3,7 @@
 
 - Currently working on my internship and side project (NLIDB for accessing official Statistics data)
 
-- Have interest in web, mobile dev, machine learning, AI, distributed system, data science and data engineering stuff.
+- Have interest in fullstack web dev, mobile dev, machine learning, AI, distributed system, data science and data engineering stuff.
 
 - Currently learning **Next.js, cloud services (GCP, AWS), and natural language interface for database (NLIDB), graphql, graph database, semantic web tech**
 
