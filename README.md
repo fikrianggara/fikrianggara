@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fikri</h1>
 <h3 align="center">A passionate long life learner from Indonesia.</h3>
 
-- Currently working on my internship and side project (NLIDB for accessing official Statistics data)
+- Currently working on my internship and learn IT stuff
 
 - Have interest in fullstack web dev, mobile dev, machine learning, AI, distributed system, data science and data engineering stuff.
 
