@@ -5,7 +5,7 @@
 
 - Have interest in fullstack web dev, mobile dev, machine learning, AI, distributed system, data science and data engineering stuff.
 
-- Currently learning **Next.js, golang, cloud services (GCP, AWS), graphql, graph database, semantic web tech**
+- Currently learning **Next.js, react-native, golang, cloud services (GCP, AWS), graphql, graph database, semantic web tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
