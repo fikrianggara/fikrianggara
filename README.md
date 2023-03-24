@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fikri</h1>
-<h3 align="center">A passionate long life learner from Indonesia.</h3>
+<h3 align="center">full-stack developer, data engineering and system design enthusiat from Indonesia</h3>
 
 - Currently working on my internship project
 
