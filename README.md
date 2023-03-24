@@ -99,4 +99,4 @@
 
 </td></tr></table>  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fikrianggara&theme=dracula)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fikrianggara&theme=vue-dark&border_radius=14&fire=83EB72)](https://git.io/streak-stats)
