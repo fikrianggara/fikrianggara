@@ -1,5 +1,5 @@
 ### HI, I'm Fikri
-#### Tech-savvy civil servant.
+#### Your tech-savvy civil servant
 
 I love the world of web development, machine learning, data engineering, and system design.
 Sometimes I do stuff with next.js, then jump to jupyter notebook, or cloud service. 
