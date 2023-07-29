@@ -2,7 +2,7 @@
 #### Your tech-savvy civil servant
 
 I love the world of web development, machine learning, data engineering, and system design.
-Sometimes I do stuff with next.js, then jump to jupyter notebook, or cloud service. 
+Sometimes I do stuff with next.js, then jump into jupyter notebook, or cloud service. 
 but most of the time I help my partners in my workplace with my IT skills and all tools that I know.
 
 
