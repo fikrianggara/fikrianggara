@@ -2,7 +2,8 @@
 #### Your tech-savvy civil servant
 
 I love the world of web development, machine learning, data engineering, and system design.
-Sometimes I do stuff with next.js, then jump into jupyter notebook, or cloud service. 
+I build and do stuff with next.js, jupyter notebook when data processing needed, exploring mobile dev with flutter and react native,
+and sometimes exploring cloud service (GCP n AWS).
 but most of the time I help my partners in my workplace with my IT skills and all tools that I know.
 
 
@@ -13,7 +14,7 @@ but most of the time I help my partners in my workplace with my IT skills and al
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fikrianggara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+#### I use these tools on my daily routine building apps
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -31,7 +32,7 @@ but most of the time I help my partners in my workplace with my IT skills and al
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
 </div>
 
-###
+#### Feel free to reach me out :)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fikri-septrian-anggara/" target="_blank">
