@@ -1,11 +1,8 @@
 ### HI, I'm Fikri
 #### Your tech-savvy civil servant
 
-I love the world of web development, machine learning, data engineering, and system design.
-I build and do stuff with next.js, jupyter notebook when data processing needed, exploring mobile dev with flutter and react native,
-and sometimes exploring cloud service (GCP n AWS).
-but most of the time I help my partners in my workplace with my IT skills and all tools that I know.
-
+I love the world of web development and system design.
+I build stuff with next.js, and python to do data processing and analysis.
 
 <br clear="both">
 
@@ -52,7 +49,4 @@ but most of the time I help my partners in my workplace with my IT skills and al
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/fikrianggara/fikrianggara/output/snake.svg" alt="Snake animation" />
-
 
