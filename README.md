@@ -3,6 +3,7 @@
 
 I love the world of web development and system design.
 I build stuff with next.js, and python to do data processing and analysis.
+Currently I do vibecoding, hence the previouses stack list is unbounded
 
 <br clear="both">
 
